@@ -1,7 +1,7 @@
 # Welcome 😎
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:welchsgoodgood@gmail.com)](mailto:welchsgoodgood@gmail.com)
 <a href="https://velog.io/@welchs"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@welchs"/></a>
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://[www.youtube.com/c/@nomorrow](https://www.youtube.com/@nomorrow))](https://www.youtube.com/c/@nomorrow)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://[www.youtube.com/@nomorrow](https://www.youtube.com/@nomorrow))](https://www.youtube.com/@nomorrow)
 <a href="https://instagram.com/leeyoueun94">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/leeyoueun94/"
